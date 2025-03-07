@@ -1,4 +1,4 @@
-# Checkpoint-1_AVD_A2
+# Checkpoint_AVD_A2
 
 # Nama : Muhammad Sadikin Samir
 # NIM  : 2409116031
